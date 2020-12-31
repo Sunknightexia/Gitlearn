@@ -12,3 +12,5 @@ remote test 002
 b-rebase 001
 b-rebase 002
 a-rebase 001
+a-rebase 001
+a-rebase 002
